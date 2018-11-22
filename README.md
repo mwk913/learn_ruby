@@ -1,1 +1,1 @@
-Exercises for ruby via The Odin Project
+Exercises for Ruby via The Odin Project curriculum
