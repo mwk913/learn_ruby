@@ -1,1 +1,0 @@
-/home/mwk913/Desktop/learn_ruby/04_pig_latin/pig_latin.rb
